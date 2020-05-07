@@ -1,4 +1,4 @@
-HelloToast - Solution Code
+HelloToast
 ==========================
 
 Simpe app with two buttons, one to count and one to show a toast.
